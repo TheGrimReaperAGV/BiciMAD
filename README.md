@@ -1,5 +1,5 @@
 # BiciMAD
-This is part of the work I have done for my master thesis group. The project is focused on the analysis and visualization 
+This is part of the work I have done for my Master´s thesis group. The project is focused on the analysis and visualization 
 of data from BiciMAD, a public bike sharing transportation system in Madrid.
 
 My contribution is mainly made up of the following:
